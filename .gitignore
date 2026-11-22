@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.ipr
+
+# Salida de compilación
+out/
+*.class
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
